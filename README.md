@@ -1,0 +1,11 @@
+Проект представляет собой комплексный анализ предсказания курсов валют с использованием модели LSTM (Long Short-Term Memory), основанной на ключевых показателях фондового рынка . Система обрабатывает временные ряды финансовых данных и строит прогнозы валютных курсов.
+
+Необходимые библеоти:
+```python
+!pip install numpy
+!pip install pandas
+!pip install matplotlib
+!pip install seaborn
+!pip install tensorflow
+!pip install scikit-learn
+```
